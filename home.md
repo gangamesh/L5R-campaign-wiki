@@ -1,4 +1,4 @@
-![Drużyna](images/L5R-party.jpg  ':size=80%')
+![Drużyna](images/L5R-party.jpg  ':size=80%;center')
 
 # Legenda o Białym Słowiku
 
