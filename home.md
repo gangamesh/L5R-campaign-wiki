@@ -1,4 +1,4 @@
-![]('https://scontent.fktw4-1.fna.fbcdn.net/v/t1.15752-9/649837864_2474393529675851_1106447663735796850_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=_68vzUCi_7oQ7kNvwHO-IQ7&_nc_oc=Adr9TvJW248Ixil-uBXOV9dyGRYpIeWxI2AHls40XAYGlITBP-PAakMEVxlX_PBxKnY&_nc_zt=23&_nc_ht=scontent.fktw4-1.fna&_nc_ss=8&oh=03_Q7cD4wFeRwItbG-81yFPqrX1M97ymsLl03PRTC3mHXfc1ziKKw&oe=69E33DFF')
+![](images/L5R-party.jpg ':class=header-tall-image-full-width')
 
 # Legenda o Białym Słowiku
 
