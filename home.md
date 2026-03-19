@@ -1,4 +1,4 @@
-![](images/L5R-party.jpg ':class=header-tall-image-full-width')
+![](images/L5R-party.jpg)
 
 # Legenda o Białym Słowiku
 
